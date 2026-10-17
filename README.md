@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I'm Moussa Hmarou 👋
 
 ### Senior BI Consultant | Data Engineer | Data Analyst
