@@ -12,9 +12,8 @@ development, data modeling, and reporting.
 
 ## 🚀 Technical Skills
 
-- **Languages:** SQL, T-SQL, Python, DAX
-- **BI & Visualization:** Power BI, SAP BusinessObjects,
-  Looker, Tableau
+- **Languages:** SQL, T-SQL, Python, DAX, R
+- **BI & Visualization:** Power BI, SAP BusinessObjects, Looker, Tableau
 - **ETL / ELT:** SSIS, Azure Data Factory, Microsoft Fabric
 - **Data Platforms:** SQL Server, Oracle, PostgreSQL,
   BigQuery, Snowflake
