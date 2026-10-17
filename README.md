@@ -1,6 +1,6 @@
 # Hi, I'm Moussa👋
 
-### Senior BI Consultant | Data Engineer | Data Analyst
+### BI Consultant | Data Engineer | Data Analyst
 
 I am a BI and Data professional with 10 years of experience
 in designing, developing, and maintaining data and
